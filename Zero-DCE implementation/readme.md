@@ -1,4 +1,5 @@
-The aim of this project is to employ the knowledge of computer vision and deep learning models capable of effectively denoising and enhancing images captured in extreme low light conditions. In this project i have developed and implemented convolutional neural networks DCENet and got ashtoninguishly competitive results.
+The aim of this project is to employ the knowledge of computer vision and deep learning models capable of effectively denoising and enhancing images captured in extreme low light conditions. In this project i have developed and implemented convolutional neural networks DCENet.
+
 
 after cloning or downloading these files:
 for testing you have to create a folder named 'test' and two subfolder into this folder named 'low' and 'high' which stores the low light and the ground truth images of the test dataset respectively.
