@@ -18,7 +18,7 @@ parser.add_argument('--save_dir', dest='test_save', default='./test/predicted/',
 parser.add_argument('--plot_test', dest='plot_test', type=int, default=1,
                     help='1 for ploting test prediction and ground_truth, else 0')
 
-args = parser.parse_args(['--task', '1' , '--plot_test', '1', '--save_enable', '1'])
+args = parser.parse_args()
 
 
 def main():
